@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:8080/api/student-management/students';
+const baseUrl = 'http://localhost:8088/api/student-management/students';
 
 document.getElementById('insert-student-form').addEventListener('submit', (e) => {
     e.preventDefault();
